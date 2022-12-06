@@ -1,0 +1,7 @@
+outlook,temperature,humidity,windy,class
+sunny,hot,high,no,noplay
+sunny,hot,high,yes,noplay
+overcast,hot,high,no,play
+rain,mild,high,no,play
+rain,cool,normal,no,play
+rain,cool,normal,yes,noplay
